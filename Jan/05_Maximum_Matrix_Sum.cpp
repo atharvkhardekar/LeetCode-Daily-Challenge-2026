@@ -19,7 +19,6 @@ public:
         if (negCount % 2 == 1) {
             sum -= 2LL * minAbs;
         }
-
         return sum;
     }
 };
