@@ -1,5 +1,5 @@
 // 3453. Separate Squares I
-// Daily Challenge - 12/01/2026
+// Daily Challenge - 13/01/2026
 
 class Solution {
 public:
