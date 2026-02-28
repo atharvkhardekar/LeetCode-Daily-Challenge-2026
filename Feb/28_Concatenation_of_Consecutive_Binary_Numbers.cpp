@@ -12,7 +12,6 @@ public:
             if ((i & (i - 1)) == 0) {
                 bits++;
             }
-
             res = ((res << bits) % MOD + i) % MOD;
         }
 
